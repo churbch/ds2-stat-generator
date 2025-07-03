@@ -1,0 +1,9 @@
+Class,Level,Vigor,Endurance,Vitality,Attunement,Strength,Dexterity,Adaptability,Intelligence,Faith
+Warrior,12,7,6,6,5,15,11,5,5,5
+Knight,13,12,6,7,4,11,8,9,3,6
+Swordsman,12,4,8,4,6,9,16,6,7,5
+Bandit,11,9,7,11,2,9,14,3,1,8
+Cleric,14,10,3,8,10,11,5,4,4,12
+Sorcerer,11,5,6,5,8,3,7,8,14,4
+Explorer,10,7,6,9,7,6,6,12,5,5
+Deprived,1,6,6,6,6,6,6,6,6,6
