@@ -1,0 +1,11 @@
+# .gitignore
+.env
+virtual_environment/
+virtualenv/
+virtualenv_python/
+virtualenv_pypy/
+virtualenv_jython/
+virtualenv_ironpython/
+venv/
+__pycache__/
+*.pyc
